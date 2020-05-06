@@ -1,0 +1,26 @@
+{
+	// file management settings
+	"hot_exit": false,
+	"remember_open_files": false,
+
+	// tabs stuff
+	"translateTabsToSpaces": true,
+	"tabSize": 4,
+
+	// visual preferences
+	"color_scheme": "Packages/Color Scheme - Default/Breakers.sublime-color-scheme",
+	"rulers": [100],
+	"show_encoding": true,
+	"theme": "Default.sublime-theme",
+
+	// dictionary settings
+	"spell_check": true,
+	"dictionary": "Packages/Language - English/en_US.dic",
+	"added_words":
+	[
+		"replenishable",
+		"indices",
+		"explanability",
+		"explainability"
+	]
+}
