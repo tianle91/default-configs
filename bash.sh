@@ -8,4 +8,4 @@ alias pip='python -m pip'
 alias ls='ls -hF'  # color, human-readable sizes, and file-type indicators.
 
 # kubectl
-alias ktl='kubectl'
+alias k='kubectl'
