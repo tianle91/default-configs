@@ -1,5 +1,5 @@
 # qol
-alias unzipallhere='for i in *.zip; do unzip "$i" -d "${i%%.zip}"; done'
+alias unzipallhere='for i in *.zip; do unzip "$i" -d "${i%%.zip}"&; done'
 
 # ensure pip version is python version
 alias pip='python -m pip'
