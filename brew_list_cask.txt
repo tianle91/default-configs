@@ -1,10 +1,7 @@
-github
-keepassxc
-pycharm
-sublime-text
 docker
 github
 google-chrome
 keepassxc
 pycharm-ce
 sublime-text
+transmission
