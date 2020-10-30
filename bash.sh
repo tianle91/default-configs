@@ -12,5 +12,5 @@ alias pip='python -m pip'
 alias jupyter='python -m jupyter'
 
 # python actually
-alias python3.7='/usr/local/opt/python@3.7/'
+alias python3.7='/usr/local/opt/python@3.7/bin/python3'
 alias virtualenv='python3 -m virtualenv'
