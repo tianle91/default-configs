@@ -9,4 +9,5 @@ pycharm-ce
 sublime-text
 telegram-desktop
 transmission
+vlc
 whatsapp
