@@ -5,3 +5,14 @@ keepassxc
 pycharm-ce
 sublime-text
 transmission
+4k-video-downloader
+docker
+github
+google-chrome
+karabiner-elements
+keepassxc
+pycharm-ce
+sublime-text
+telegram-desktop
+transmission
+whatsapp
