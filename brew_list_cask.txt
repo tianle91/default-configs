@@ -1,16 +1,10 @@
-docker
-github
-google-chrome
-keepassxc
-pycharm-ce
-sublime-text
-transmission
 4k-video-downloader
 docker
 github
 google-chrome
 karabiner-elements
 keepassxc
+nordvpn
 pycharm-ce
 sublime-text
 telegram-desktop

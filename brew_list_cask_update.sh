@@ -1,1 +1,1 @@
-brew list --cask >>brew_list_cask.txt
+brew list --cask >brew_list_cask.txt
