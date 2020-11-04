@@ -1,5 +1,6 @@
 4k-video-downloader
 docker
+gimp
 github
 google-chrome
 karabiner-elements
