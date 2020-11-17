@@ -1,4 +1,5 @@
 4k-video-downloader
+discord
 docker
 gimp
 github
