@@ -1,0 +1,1 @@
+brew cask install $(< brew_list_cask.txt )
