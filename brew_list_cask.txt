@@ -9,8 +9,10 @@ keepassxc
 nordvpn
 pycharm-ce
 slack
+spotify
 sublime-text
 telegram-desktop
 transmission
+visual-studio-code
 vlc
 whatsapp
