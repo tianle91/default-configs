@@ -1,6 +1,8 @@
 4k-video-downloader
+calibre
 discord
 docker
+firefox
 gimp
 github
 google-chrome
